@@ -3,8 +3,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
+| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
-| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.3.0 | ![Old crown](assets/old-crown.svg) |
