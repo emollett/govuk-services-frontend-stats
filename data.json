@@ -154,7 +154,7 @@
     {
       "repo": "DFE-Digital/find-a-lost-trn",
       "serviceName": "Find a lost teacher reference number (TRN)",
-      "govukversion": "^5.13.0"
+      "govukversion": "^6.3.0"
     },
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
@@ -382,7 +382,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^6.0"
+      "govukversion": "^6.4"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
@@ -479,7 +479,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.3.0",
+      "govukversion": "^6.4.0",
       "name": "Forms runner"
     },
     {
@@ -583,7 +583,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "6.3.0"
+      "govukversion": "6.4.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -599,7 +599,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^6.3.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -615,7 +615,7 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^6.3.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
