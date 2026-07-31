@@ -5,6 +5,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.4 | ![Old crown](assets/old-crown.svg) |
@@ -15,8 +17,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
-| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.3.0 | ![Old crown](assets/old-crown.svg) |
-| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |

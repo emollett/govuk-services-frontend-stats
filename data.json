@@ -211,13 +211,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "6.3.0",
+      "govukversion": "6.4.0",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.3.0",
+      "govukversion": "^6.4.0",
       "name": "Admin application"
     },
     {
