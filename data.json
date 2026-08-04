@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^6.1.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -531,7 +531,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^6.2.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
