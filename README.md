@@ -12,6 +12,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.4 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -22,7 +23,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
