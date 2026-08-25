@@ -10,6 +10,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -23,7 +24,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.3.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![New crown](assets/new-crown.svg#rebrand) |
