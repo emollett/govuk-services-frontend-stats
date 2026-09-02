@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -13,7 +14,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.4 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -77,7 +78,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Product page](https://github.com/ministryofjustice/formbuilder-product-page/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
-| [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Complete conversions, transfers and changes](https://github.com/DFE-Digital/dfe-complete-conversions-transfers-and-changes/) | ^4.7.0 | ![Old crown](assets/old-crown.svg) |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | ![Old crown](assets/old-crown.svg) |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | ![Old crown](assets/old-crown.svg) |
